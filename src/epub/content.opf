@@ -59,9 +59,10 @@
 		<meta property="se:name.person.full-name" refines="#author">Sir Henry Rider Haggard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._Rider_Haggard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80010495</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Alexandre Cabanel</dc:contributor>
 		<meta property="file-as" refines="#artist">Cabanel, Alexandre</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alexandre_Cabanel</meta>
@@ -148,8 +149,8 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="authors-note.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="book-1.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
