@@ -1,5 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+/* XML Lang on blockquotes */
+body [xml|lang]{
+	font-style: italic;
+}
 
 /* Start Letters */
 [epub|type~="z3998:letter"] header{
@@ -71,3 +77,9 @@ header{
 	text-align: center; /* Needed to override poem styling */
 }
 /* End Header */
+
+/* All Small Caps blockquote */
+#chapter-2-8 blockquote:nth-of-type(1){
+	font-size: small;
+	text-transform: uppercase;
+}
