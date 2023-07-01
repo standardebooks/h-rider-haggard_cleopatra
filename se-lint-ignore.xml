@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2-4.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>This is correct per page scans</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-16.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from same speaker continues in next p element</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
