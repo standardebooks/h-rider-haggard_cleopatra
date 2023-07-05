@@ -41,15 +41,16 @@
 		<meta property="term" refines="#subject-1">sh2008114908</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">An Egyptian patriot relates the tale of the fall of Cleopatra.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A fantastical, fictionalized version of the death of Cleopatra, this eponymous story by &lt;a href="https://standardebooks.org/ebooks/h-rider-haggard"&gt;H. Rider Haggard&lt;/a&gt; is told from the point of view of an Egyptian priest, Harmachis, who seeks her downfall to free his nation from the tyranny of the Macedonian Greek Dynasty, currently headed by Cleopatra. Told in Haggard’s usual adventuresome style, and with just the right amount of magic and fantasy, Harmachis grows into his role as an underground leader of his people, is placed into Cleopatra’s court, and recounts the various trials and tribulations that accompany his plots against Cleopatra, “a Thing of Flame like unto which no woman has ever been or ever will be.”&lt;/p&gt;
+			&lt;p&gt;Several parts of the story were used in the 1917 silent film, &lt;i&gt;Cleopatra&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2769</dc:source>
 		<dc:source>https://archive.org/details/cleopatrabeingac00hagg_0</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cleopatra</meta>
