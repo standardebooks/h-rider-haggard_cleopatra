@@ -56,6 +56,6 @@ p span.i2{
 
 /* All Small Caps blockquote */
 #chapter-2-8 blockquote:nth-of-type(1){
-	font-size: small;
+	font-style: normal;
 	text-transform: uppercase;
 }
