@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2769</dc:source>
 		<dc:source>https://archive.org/details/cleopatrabeingac00hagg_0</dc:source>
 		<meta property="se:word-count">102940</meta>
-		<meta property="se:reading-ease.flesch">76.86</meta>
+		<meta property="se:reading-ease.flesch">76.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cleopatra</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-rider-haggard_cleopatra</meta>
 		<dc:creator id="author">H. Rider Haggard</dc:creator>
