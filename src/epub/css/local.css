@@ -13,10 +13,12 @@ footer{
 	text-align: right;
 }
 
+#dedication > p:first-of-type + p,
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
+#dedication > p:first-of-type,
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
