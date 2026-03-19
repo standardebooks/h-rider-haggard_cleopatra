@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-2-4.xhtml">
-		<ignore code="t-005">
-			<line>32</line>
-			<reason>This is correct per page scans</reason>
-		</ignore>
-	</file>
 	<file path="chapter-2-16.xhtml">
 		<ignore code="t-003">
 			<line>37</line>
