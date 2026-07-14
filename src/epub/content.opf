@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Cleopatra: Being an Account of the Fall and Vengeance of Harmachis, the Royal Egyptian, as Set Forth by His Own Hand</dc:title>
 		<meta property="file-as" refines="#fulltitle">Cleopatra: Being an Account of the Fall and Vengeance of Harmachis, the Royal Egyptian, as Set Forth by His Own Hand</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Egypt -- History -- 332-30 B.C. -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Cleopatra, Queen of Egypt, -30 B.C. -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
