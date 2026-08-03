@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-rider-haggard/cleopatra</dc:identifier>
 		<dc:date>2023-07-06T00:33:13Z</dc:date>
@@ -45,11 +45,11 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An Egyptian patriot relates the tale of the fall of Cleopatra.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An Egyptian patriot relates the tale of the fall of Cleopatra.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A fantastical, fictionalized version of the death of Cleopatra, this eponymous story by &lt;a href="https://standardebooks.org/ebooks/h-rider-haggard"&gt;H. Rider Haggard&lt;/a&gt; is told from the point of view of an Egyptian priest, Harmachis, who seeks her downfall to free his nation from the tyranny of the Macedonian Greek Dynasty. Told in Haggard’s usual adventuresome style, and with just the right amount of magic and fantasy, we follow Harmachis as he grows into the role of an underground leader of his people, as he’s placed into Cleopatra’s court, and as he recounts the various trials and tribulations that accompany his plots against Cleopatra, whom he calls “a Thing of Flame like unto which no woman has ever been or ever will be.”&lt;/p&gt;
 			&lt;p&gt;Several parts of the story were adapted for use in the 1917 silent film &lt;i&gt;Cleopatra&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2769</dc:source>
 		<dc:source>https://archive.org/details/cleopatrabeingac00hagg_0</dc:source>
