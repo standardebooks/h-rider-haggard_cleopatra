@@ -45,7 +45,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An Egyptian patriot relates the tale of the fall of Cleopatra.</dc:abstract>
+		<meta property="schema:abstract">An Egyptian patriot relates the tale of the fall of Cleopatra.</meta>
 		<dc:description>
 			&lt;p&gt;A fantastical, fictionalized version of the death of Cleopatra, this eponymous story by &lt;a href="https://standardebooks.org/ebooks/h-rider-haggard"&gt;H. Rider Haggard&lt;/a&gt; is told from the point of view of an Egyptian priest, Harmachis, who seeks her downfall to free his nation from the tyranny of the Macedonian Greek Dynasty. Told in Haggard’s usual adventuresome style, and with just the right amount of magic and fantasy, we follow Harmachis as he grows into the role of an underground leader of his people, as he’s placed into Cleopatra’s court, and as he recounts the various trials and tribulations that accompany his plots against Cleopatra, whom he calls “a Thing of Flame like unto which no woman has ever been or ever will be.”&lt;/p&gt;
 			&lt;p&gt;Several parts of the story were adapted for use in the 1917 silent film &lt;i&gt;Cleopatra&lt;/i&gt;.&lt;/p&gt;
