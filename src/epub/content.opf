@@ -61,7 +61,7 @@
 		<link href="https://github.com/standardebooks/h-rider-haggard_cleopatra" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">H. Rider Haggard</dc:creator>
 		<meta property="file-as" refines="#author">Haggard, H. Rider</meta>
-		<meta property="schema:alternateName" refines="#author">Sir Henry Rider Haggard</meta>
+		<meta property="schema:alternateName" refines="#author">Henry Rider Haggard</meta>
 		<link href="https://en.wikipedia.org/wiki/H._Rider_Haggard" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80010495.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
@@ -86,6 +86,7 @@
 		<dc:contributor id="transcriber-4">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-4" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-4" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Anonymous</meta>
